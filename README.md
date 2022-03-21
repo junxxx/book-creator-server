@@ -1,0 +1,3 @@
+export BOOK_CREATOR_API_KEY=book_creator_api_key
+export NOTION_SECRET=notion_secret
+export NOTION_DATABASE_ID=notion_database_id
